@@ -1,1 +1,1 @@
-# live at (Netflix)[https://shreyashnand.github.io/netflix-clone/]
+# live at [Netflix](https://shreyashnand.github.io/netflix-clone/)
